@@ -2,7 +2,7 @@ import tensorflow as tf
 
 
 from .module import *
-1
+
 class Decoder:
 
     def __init__(self, k_dim, v_dim, model_dim, num_heads, dropout, use_conv, num_layer):
