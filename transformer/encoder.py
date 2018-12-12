@@ -1,6 +1,5 @@
 import tensorflow as tf
 
-from tensorflow.keras.layers import Dropout
 
 from .module import *
 

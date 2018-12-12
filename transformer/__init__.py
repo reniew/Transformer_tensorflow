@@ -1,6 +1,6 @@
 import tensorflow as tf
 
-from tensorflow.keras.layers import Dense
+from tensorflow.python.keras.layers import Dense
 
 from .encoder import Encoder
 from .decoder import Decoder

@@ -1,6 +1,6 @@
 import tensorflow as tf
 
-from tensorflow.keras.layers import Dense, Dropout, Conv1D
+from tensorflow.python.keras.layers import Dense, Dropout, Conv1D
 
 
 class Multi_head_attention:
